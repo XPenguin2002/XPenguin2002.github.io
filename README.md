@@ -6,8 +6,6 @@
     <title>Ja</title>
 </head>
 <body>
-
 <img src="ja2.gif" alt="kula daje fula">
-
 </body>
 </html>
